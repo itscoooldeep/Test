@@ -1,0 +1,24 @@
+
+#Comments
+
+student1:
+  name: "Raju Rastogi"
+  age: 10
+  passed: true
+  Subjects:
+    - Math
+    - English
+  marks:
+    Math: 90
+    English: 80
+
+student2:
+  name: "RRastogi"
+  age: 10
+  passed: true
+  Subjects:
+    - Math
+    - English
+  marks:
+    Math: 90
+    English: 8
